@@ -8,7 +8,7 @@ OpenGL-exercise
 
 目的：在让camera   在Z轴为0.5时候左右动态观察图片
 
-图示：![](\README_picture\cameraMove.png)
+图示：![](03 camera/README_picture/cameraMove.png)
 
 
 
