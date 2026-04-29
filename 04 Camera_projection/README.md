@@ -8,9 +8,10 @@ OpenGL-exercise
 
 目的：perspective projection练习   采用透视投影从上方向下观察前后位置不一样的两张图像
 
-图示：![perspective](https://github.com/hougexxx/OpenGL-exercises/blob/bfbb35a5ebaf4fdc5b16f3555d7bd1c6fba27c50/04%20Camera_projection/README_picture/display.png)
-
-
+图示：
+<br>
+<img src="https://github.com/hougexxx/OpenGL-exercises/blob/bfbb35a5ebaf4fdc5b16f3555d7bd1c6fba27c50/04%20Camera_projection/README_picture/display.png" width=60%>
+<br>
 增加内容如下：
 
 - 增加perspectiveMatrix矩阵，用于做投影变换
