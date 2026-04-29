@@ -3,17 +3,9 @@ exercise about OpenGL
 
 所有OpenGL项目是基于C++ 17，OpenGL 4.6以及cmake 4.1.1制作的。
 
-main.cpp为主函数。
-
-glad.c函数用于导入和OpenGL相关的函数。
-
-Application中是应用层的函数库，里面封装了init，update，destroy函数。
-
-Wrapper中封装了OpenGL的错误检查函数。
-
-assets中是项目所需要的资源文件。包括glsl文件，以及用于制作纹理的图片。
-
-glframework是整个项目的框架，封装了关于shader着色器和texture纹理相关的函数。
-
-thirdparty中是需要的第三方库。
+简洁介绍 ：<br>
++ 01 Texture_hybrid : 利用噪声图像的参数混合两张纹理图像<br>
++ 02 Mipmap :对图像进行mipmap，让图像不断缩小，查看mipmap的变化<br>
++ 03 Camera :在相机坐标系中左右动态观察一张空间中的图像<br>
++ 04 Camera_projection :对相机坐标系中的两张空间中的图像进行透视投影<br>
 
