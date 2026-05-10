@@ -8,13 +8,13 @@ OpenGL-exercise
 新建一个geometry类，可以创建立方体，给予立方体的边长，利用边长生成mesh的VBO数据。最后完成几何体数据的封装。
 
 图示：<br>
-<img src="https://github.com/hougexxx/OpenGL-exercises/blob/e8857da500a44394ec54a1bbbc3919296d013d9c/05%20Camera_control/README_picture/CameraControl_1.png" width=40%>
-<img src="https://github.com/hougexxx/OpenGL-exercises/blob/e8857da500a44394ec54a1bbbc3919296d013d9c/05%20Camera_control/README_picture/CameraControl_2.png" width=40%>
+<img src="https://github.com/hougexxx/OpenGL-exercises/blob/edf7fe7adfb4964377cede0f568291c35a89026f/07%20Geometry/README_picture/geometry.png" width=40%>
+<img src="https://github.com/hougexxx/OpenGL-exercises/blob/edf7fe7adfb4964377cede0f568291c35a89026f/07%20Geometry/README_picture/geometry_1.png" width=40%>
 
 
 
 
-其他内容如下保持不变：
+其他内容如下：
 
 main.cpp为主函数。
 
