@@ -8,8 +8,8 @@ OpenGL-exercise
 
 目的：在让camera   在Z轴为0.5时候左右动态观察图片
 
-图示：![camera](https://github.com/hougexxx/OpenGL-exercises/blob/1f413adc52e84329ba67867eee905860d985ade3/03%20camera/README_picture/cameraMove.png)
-
+图示：<br>
+<img src="https://github.com/hougexxx/OpenGL-exercises/blob/1f413adc52e84329ba67867eee905860d985ade3/03%20camera/README_picture/cameraMove.png" width=60%>
 
 增加内容如下：
 

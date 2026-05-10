@@ -8,9 +8,11 @@ OpenGL-exercise
 
 目的：camera control 练习  
 对原来空间中的两张图片加入了相机控制，可以通过鼠标左键点击移动，鼠标中键滚轮移动，鼠标中键点击移动等事件，
-控制相机的位置，通过相对运动的原理进而给人以控制空间中物体的感觉。也就是“轨迹球相机”。
+控制相机的位置。<br>通过相对运动的原理进而给人以控制空间中物体的感觉。也就是“轨迹球相机”。
 
-图示：![](\README_picture\cameraMove.png)
+图示：<br>
+<img src="https://github.com/hougexxx/OpenGL-exercises/blob/e8857da500a44394ec54a1bbbc3919296d013d9c/05%20Camera_control/README_picture/CameraControl_1.png" width=40%>
+<img src="https://github.com/hougexxx/OpenGL-exercises/blob/e8857da500a44394ec54a1bbbc3919296d013d9c/05%20Camera_control/README_picture/CameraControl_2.png" width=40%>
 
 增加内容如下：
 
